@@ -1,0 +1,77 @@
+# Trip Plan
+
+## Flights
+
+Here are some flight options from Cologne to Lisbon:
+
+1. **Eurowings**
+   - Price: USD 281
+   - [Book](https://attr.eurowings.com/cl.aspx?extProvId=99&extProvApi=affmt-ew&extPu=googleflights-ew&extLi=googleflights_DE&extSi=googleflights&url=https://www.eurowings.com/services/ibe/deeplink.html?o=CGN&d=LIS&adt=1&chd=0&inf=0&lng=en&od=2026-11-20&flnro=602&rd=2026-11-27&flnrr=603&t=r&cha=mse&li=GFS_DE_en&si=googleflights&f=BASIC&gclid=AAcRjHKY9Crr3_D5gV29hQBed41NrGlKfw_XtHIMA1SZeC6ijOBhKKC1iA3tB3NV9yrLR8PwuFWiETUFqXL9L-Kvw4Dl_VYmWv7ICpZ9CnbyCrOuoWYC&gclsrc=gf)
+
+2. **Ryanair**
+   - Price: USD 311
+   - [Book](https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-11-20&dateIn=2026-11-27&isConnectedFlight=false&isReturn=true&discount=0&promoCode=&originIata=CGN&destinationIata=LIS&outFlightNo=FR9840&inFlightNo=FR9841)
+
+3. **Lufthansa**
+   - Price: USD 335
+   - [Book](https://www.lufthansa.com/deeplink/partner?OriginOut1=CGN&DestinationOut1=MUC&DepartureOut1=2026-11-20T17:40:00&ArrivalOut1=2026-11-20T18:40:00&BookingClassOut1=E&FlightOut1=LH1985&FareBasisOut1=TETNHBU4&OperatingFlightOut1=LH1985&OriginOut2=MUC&DestinationOut2=LIS&DepartureOut2=2026-11-20T21:10:00&ArrivalOut2=2026-11-20T23:30:00&BookingClassOut2=E&FlightOut2=LH1780&FareBasisOut2=TETNHBU4&OperatingFlightOut2=LH1780&OriginRet1=LIS&DestinationRet1=MUC&DepartureRet1=2026-11-27T07:40:00&ArrivalRet1=2026-11-27T11:55:00&BookingClassRet1=E&FlightRet1=LH6993&FareBasisRet1=SETCLSE4&OperatingFlightRet1=TP552&OriginRet2=MUC&DestinationRet2=CGN&DepartureRet2=2026-11-27T18:25:00&ArrivalRet2=2026-11-27T19:35:00&BookingClassRet2=E&FlightRet2=LH1986&FareBasisRet2=SETCLSE4&OperatingFlightRet2=LH1986&PaxAdult=1&OfferedPrice=298.15&OfferedPriceCurrency=EUR&Mode=CART&partnerId=8&Language=en&Country=DE&ENC=6102b7a5b09068d7e7f322c8424a8fa17ec508ce0a672f74db07e843d03bb571&dwmwr=utm_medium%3Dfse%26utm_source%3Dgoogle%26utm_campaign%3Dlh_DE_en_CGN-LIS_desktop%26utm_term%3Dgoogle&gclid=AAcRjHLvdzNmx8JSKE1O2zwseza_UDS_oM6UJyQkLmzkQlw0qEMAmOyeEibIV9pib8_V869wFCyVgoc-Oops4LbtYBr69Kefv-NIXzazsDkh4B72WMc&gclsrc=gf)
+
+## Hotels
+
+Here are some hotel options near Lisbon Airport:
+
+1. **Holiday Inn Express Lisbon Airport**
+   - Location: Prior Velho, 1.12 miles from the airport
+   - Features: Free continental breakfast, free Wi-Fi
+   - [More Info](https://www.ihg.com/holidayinnexpress/hotels/us/en/lisbon/lisap/hoteldetail)
+
+2. **Star inn Lisbon Airport**
+   - Location: Olivais, 350 meters from the airport
+   - Features: Restaurant, bar, free Wi-Fi
+   - [More Info](https://www.hotelstarinn.com/en/lisboa)
+
+3. **Meliá Lisboa Aeroporto**
+   - Location: 200 meters from Terminal 1
+   - Features: Lounge bar, restaurant, Wi-Fi
+   - [More Info](https://www.lisbonairport.pt/en/lis/access-parking/for-your-full-comfort/melia-hotel)
+
+## Things to Do
+
+**Beaches:**
+- **Costa da Caparica**: Known for its long sandy beaches and surf culture. [More Info](https://www.geekyexplorer.com/lisbon-beaches)
+- **Praia da Conceição**: Located in Cascais, easily accessible by public transport. [More Info](https://www.oliverstravels.com/blog/a-guide-to-lisbon-coast)
+
+**Nightlife:**
+- **Lux Frágil**: Iconic club known for electronic music, open until 7 am. [More Info](https://www.reddit.com/r/VisitPortugalGuide/comments/1lxy6sl/touristfriendly_lisbon_nightlife_guide)
+- **Bairro Alto**: Vibrant area with bars and street music. [More Info](https://www.youtube.com/watch?v=7tK7zkTd17Q)
+
+## Events
+
+- **Wonderland Lisboa**: November 25-30, 2026, at Parque Eduardo VII. Portugal’s biggest Christmas market with rides and stalls. [More Info](https://www.tickets-lisbon.com/travel-guide/best-time-to-visit/lisbon-in-november)
+- **Lisbon Christmas Illuminations**: November 25, 2026, to January 10, 2027. Seasonal lights along Avenida da Liberdade. [More Info](https://www.tickets-lisbon.com/travel-guide/best-time-to-visit/lisbon-in-november)
+
+## Local Transport
+
+- **Metro**: Lisbon's metro system is efficient and connects the airport to the city center.
+- **Buses and Trams**: Extensive network covering most of the city.
+- **Taxis and Ride-Sharing**: Available at the airport and throughout the city.
+
+## Visa / Entry Information
+
+Visa information skipped: nationality not provided.
+
+## Budget Snapshot
+
+- **Flights**: Approximately USD 281 per person, total for 2 adults: USD 562
+- **Hotels**: Prices not listed, so this total covers flights only.
+
+Currencies differ, not converted.
+
+## Recommended Trip Plan
+
+- **Day 1-2**: Arrive in Lisbon, settle into a hotel near the airport, and explore local beaches like Costa da Caparica.
+- **Day 3-4**: Enjoy Lisbon's vibrant nightlife in Bairro Alto and Lux Frágil.
+- **Day 5-6**: Attend Wonderland Lisboa and explore the Christmas illuminations.
+- **Day 7**: Relax and prepare for departure.
+
+This plan provides a mix of relaxation, cultural experiences, and nightlife, tailored to your interests.
